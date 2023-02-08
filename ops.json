@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "1c8579cd-64c5-31ff-8897-eb1b13dcf139",
+    "name": "tekalu",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "33f07bcd-3328-3e63-928b-48f02c38cb0f",
+    "name": "SPACE",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d6b0b512-0d78-306a-82f7-0e2c37be3e5e",
+    "name": "HaruBi",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

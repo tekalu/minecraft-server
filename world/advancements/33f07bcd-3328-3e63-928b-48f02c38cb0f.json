@@ -1,0 +1,81 @@
+{
+  "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2023-02-09 01:08:39 +0700"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockminecoloniesrack": {
+    "criteria": {
+      "has_build_tool": "2023-02-09 01:08:50 +0700"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhuttownhall": {
+    "criteria": {
+      "has_items": "2023-02-09 01:08:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-02-08 19:59:06 +0700"
+    },
+    "done": true
+  },
+  "sorcerium:lvl_achievement": {
+    "criteria": {
+      "lvl_achievement": "2023-02-09 00:45:28 +0700"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/resourcescroll": {
+    "criteria": {
+      "has_build_tool": "2023-02-09 01:08:50 +0700"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2023-02-09 01:08:39 +0700"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/clipboard": {
+    "criteria": {
+      "has_build_tool": "2023-02-09 01:08:50 +0700"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockwaypoint": {
+    "criteria": {
+      "has_build_tool": "2023-02-09 01:08:50 +0700"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2023-02-09 01:08:39 +0700"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/build_goggles": {
+    "criteria": {
+      "has_build_tool": "2023-02-09 01:08:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2023-02-09 01:16:43 +0700",
+      "minecraft:beach": "2023-02-09 01:11:09 +0700",
+      "minecraft:river": "2023-02-09 01:12:28 +0700",
+      "minecraft:ice_spikes": "2023-02-09 01:14:41 +0700",
+      "minecraft:frozen_ocean": "2023-02-09 01:16:57 +0700",
+      "minecraft:snowy_beach": "2023-02-09 01:16:55 +0700",
+      "minecraft:plains": "2023-02-09 00:33:44 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

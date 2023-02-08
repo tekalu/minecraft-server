@@ -1,0 +1,256 @@
+[09февр.2023 01:24:44.221] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.2.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[09февр.2023 01:24:44.227] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[09февр.2023 01:24:44.947] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/sukac/OneDrive/–абочий%20стол/—ервер%20майнкрафт/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[09февр.2023 01:24:45.781] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\sukac\OneDrive\–абочий стол\—ервер майнкрафт\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.0\fmlcore-1.19.2-43.2.0.jar is missing mods.toml file
+[09февр.2023 01:24:45.787] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\sukac\OneDrive\–абочий стол\—ервер майнкрафт\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.0\javafmllanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[09февр.2023 01:24:45.794] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\sukac\OneDrive\–абочий стол\—ервер майнкрафт\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.0\lowcodelanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[09февр.2023 01:24:45.802] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\sukac\OneDrive\–абочий стол\—ервер майнкрафт\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.0\mclanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[09февр.2023 01:24:46.030] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[09февр.2023 01:24:48.515] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09февр.2023 01:24:48.630] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[09февр.2023 01:24:49.648] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
+[09февр.2023 01:24:49.652] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.TomatoVineBlock was not found supplementaries.mixins.json:CompatFarmersDelightMixin
+[09февр.2023 01:24:56.331] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[09февр.2023 01:24:58.524] [main/WARN] [mixin/]: Mixin villagersplus.mixins.json:EntityBucketItemMixin has multiple constructors, (Lnet/minecraft/world/level/material/Fluid;Lnet/minecraft/world/item/Item$Properties;)V was selected
+
+[09февр.2023 01:24:59.574] [modloading-worker-0/INFO] [Kiwi/Init]: Processing 4 KiwiModule annotations
+[09февр.2023 01:25:00.420] [modloading-worker-0/INFO] [doubleslabs/]: Loaded 0 vertical slab support classes
+[09февр.2023 01:25:00.443] [modloading-worker-0/INFO] [doubleslabs/]: Loaded 2 horizontal slab support classes
+[09февр.2023 01:25:00.449] [modloading-worker-0/INFO] [doubleslabs/]: Loaded 0 container support classes
+[09февр.2023 01:25:00.782] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.19.2', & Forge '43.2.0' on Java '17.0.3, Oracle Corporation'
+[09февр.2023 01:25:00.798] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+[09февр.2023 01:25:00.874] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
+[09февр.2023 01:25:00.859] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Shire
+[09февр.2023 01:25:00.831] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.2.0, for MC 1.19.2 with MCP 20220805.130853
+[09февр.2023 01:25:00.895] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.2.0 Initialized
+[09февр.2023 01:25:00.894] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Desert Oasis
+[09февр.2023 01:25:00.900] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Pagoda
+[09февр.2023 01:25:00.981] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Minecolonies Original
+[09февр.2023 01:25:00.902] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[09февр.2023 01:25:01.119] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
+[09февр.2023 01:25:01.176] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[09февр.2023 01:25:01.178] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
+[09февр.2023 01:25:01.075] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Caledonia
+[09февр.2023 01:25:01.188] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Incan
+[09февр.2023 01:25:01.173] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+[09февр.2023 01:25:01.189] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Warped Netherlands
+[09февр.2023 01:25:01.191] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Dark Oak Treehouse
+[09февр.2023 01:25:01.192] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Birch
+[09февр.2023 01:25:01.195] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Oak
+[09февр.2023 01:25:01.196] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Birch
+[09февр.2023 01:25:01.197] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Cavern
+[09февр.2023 01:25:01.200] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Space Wars
+[09февр.2023 01:25:01.200] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Spruce
+[09февр.2023 01:25:01.201] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Jungle Treehouse
+[09февр.2023 01:25:01.202] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Nordic Spruce
+[09февр.2023 01:25:01.203] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Dark Oak
+[09февр.2023 01:25:01.204] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Savanna
+[09февр.2023 01:25:01.204] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Stalactite Caves
+[09февр.2023 01:25:01.205] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Lost Mesa City
+[09февр.2023 01:25:01.206] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Fortress
+[09февр.2023 01:25:01.208] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
+[09февр.2023 01:25:01.208] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
+[09февр.2023 01:25:01.211] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
+[09февр.2023 01:25:02.597] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
+[09февр.2023 01:25:02.613] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
+[09февр.2023 01:25:02.615] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[09февр.2023 01:25:02.616] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+[09февр.2023 01:25:05.517] [main/INFO] [moonlight/]: Initialized block sets in 15ms
+[09февр.2023 01:25:06.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[09февр.2023 01:25:07.082] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[09февр.2023 01:25:07.083] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[09февр.2023 01:25:07.084] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[09февр.2023 01:25:07.084] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[09февр.2023 01:25:07.085] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[09февр.2023 01:25:07.088] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[09февр.2023 01:25:07.090] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[09февр.2023 01:25:07.128] [main/INFO] [moonlight/]: Initialized color sets in 32ms
+[09февр.2023 01:25:07.157] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.WaterEffect as a FluidEffect for Water with the ID 0
+[09февр.2023 01:25:07.158] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.LavaEffect as a FluidEffect for Lava with the ID 1
+[09февр.2023 01:25:07.159] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.PotionEffect as a FluidEffect for fluid_type.travelersbackpack.potion with the ID 2
+[09февр.2023 01:25:07.160] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.MilkEffect as a FluidEffect for Air with the ID 3
+[09февр.2023 01:25:07.249] [main/INFO] [supplementaries/]: Finished mod setup in: [0, 2, 0, 1, 4, 32, 1, 0, 0, 0, 0, 4, 7, 2] ms
+[09февр.2023 01:25:07.301] [modloading-worker-0/INFO] [de.mennomax.astikorcarts.AstikorCarts/]: Automatic pull animal configuration:
+pull_animals = [
+    "minecraft:donkey",
+    "minecraft:horse",
+    "minecraft:mule",
+    "minecraft:skeleton_horse",
+    "minecraft:zombie_horse",
+    "minecraft:player"
+  ]
+[09февр.2023 01:25:07.313] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
+[09февр.2023 01:25:07.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: OUTDATED Current: 1.19.2-2.2.2 Target: 1.19.2-2.2.3
+[09февр.2023 01:25:07.355] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [amethysttoolsmod] Starting version check at https://pastebin.com/raw/g8rHZeHD
+[09февр.2023 01:25:07.722] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [amethysttoolsmod] Found status: UP_TO_DATE Current: 1.19-1.6.2 Target: null
+[09февр.2023 01:25:07.774] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[09февр.2023 01:25:08.140] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 8.2.13 Target: 8.2.14
+[09февр.2023 01:25:08.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doubleslabs] Starting version check at https://raw.githubusercontent.com/CJMinecraft01/DoubleSlabs/1.12.x/update.json
+[09февр.2023 01:25:08.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doubleslabs] Found status: BETA Current: 6.1.0 Target: null
+[09февр.2023 01:25:08.248] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09февр.2023 01:25:08.909] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 43.2.0 Target: null
+[09февр.2023 01:25:08.911] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[09февр.2023 01:25:09.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: OUTDATED Current: 4.2.1 Target: 7.3.1
+[09февр.2023 01:25:09.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[09февр.2023 01:25:09.715] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: UP_TO_DATE Current: 7.3.1 Target: null
+[09февр.2023 01:25:09.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
+[09февр.2023 01:25:10.009] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 6.7.0 Target: null
+[09февр.2023 01:25:10.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/forge/update.json
+[09февр.2023 01:25:10.113] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: OUTDATED Current: 1.19.2-2.2.45 Target: 1.19.2-2.2.46
+[09февр.2023 01:25:11.949] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09февр.2023 01:25:14.781] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/sukac/OneDrive/–абочий%20стол/—ервер%20майнкрафт/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23151!/assets/.mcassetsroot' uses unexpected schema
+[09февр.2023 01:25:14.784] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/sukac/OneDrive/–абочий%20стол/—ервер%20майнкрафт/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23151!/data/.mcassetsroot' uses unexpected schema
+[09февр.2023 01:25:15.264] [main/INFO] [supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 336 ms
+[09февр.2023 01:25:18.483] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[09февр.2023 01:25:18.487] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[09февр.2023 01:25:18.514] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[09февр.2023 01:25:18.542] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[09февр.2023 01:25:19.480] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1825 advancements
+[09февр.2023 01:25:19.486] [main/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
+[09февр.2023 01:25:19.494] [main/INFO] [minecolonies/]: Loaded 138 recipes for 15 crafters
+[09февр.2023 01:25:19.495] [main/INFO] [minecolonies/]: Beginning load of research for University.
+[09февр.2023 01:25:19.507] [main/WARN] [minecolonies/]: Research minecolonies:combat/standard requested higher effect strength than exists.
+[09февр.2023 01:25:19.522] [main/WARN] [minecolonies/]: Research minecolonies:combat/telescope requested higher effect strength than exists.
+[09февр.2023 01:25:19.524] [main/WARN] [minecolonies/]: Research minecolonies:civilian/vaccines requested higher effect strength than exists.
+[09февр.2023 01:25:19.547] [main/WARN] [minecolonies/]: Research minecolonies:civilian/masks requested higher effect strength than exists.
+[09февр.2023 01:25:19.554] [main/INFO] [minecolonies/]: Loaded 197 recipes for 4 research branches
+[09февр.2023 01:25:19.563] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type ''
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.19.2-20220805.130853-srg.jar%23151!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.19.2-43.2.0-universal.jar%23156!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$3.decode(RecordCodecBuilder.java:248) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$1(KeyDispatchCodec.java:67) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$2(KeyDispatchCodec.java:58) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$0(MapDecoder.java:52) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.19.2-43.2.0-universal.jar%23156!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.19.2-43.2.0-universal.jar%23156!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23151!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23151!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23151!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23151!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23151!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.2.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[09февр.2023 01:25:19.571] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown type ''
+[09февр.2023 01:25:19.582] [main/INFO] [supplementaries/]: Loaded  8 flute songs
+[09февр.2023 01:25:22.071] [main/INFO] [supplementaries/]: Finished additional setup in 37 ms
+[09февр.2023 01:25:22.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[09февр.2023 01:25:22.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09февр.2023 01:25:22.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09февр.2023 01:25:22.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09февр.2023 01:25:22.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 26.181.254.77:25565
+[09февр.2023 01:25:22.968] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[09февр.2023 01:25:23.220] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09февр.2023 01:25:23.220] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09февр.2023 01:25:23.221] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09февр.2023 01:25:23.222] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09февр.2023 01:25:23.281] [Thread-0/WARN] [minecolonies.requestsystem/]: Updated logging config. RS Debug logging enabled: false
+[09февр.2023 01:25:23.371] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[09февр.2023 01:25:23.660] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[09февр.2023 01:25:23.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09февр.2023 01:25:24.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09февр.2023 01:25:26.805] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:26.843] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:26.878] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:26.893] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:26.909] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:26.912] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:27.213] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:27.713] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:28.213] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:28.972] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:35.774] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:35.780] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:35.793] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:35.798] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:35.802] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:35.805] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:35.809] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:35.810] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:35.814] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:35.823] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:35.843] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:35.851] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:35.872] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:35.877] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09февр.2023 01:25:36.215] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[09февр.2023 01:25:36.713] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
+[09февр.2023 01:25:37.810] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13599 ms
+[09февр.2023 01:25:37.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.560s)! For help, type "help"
+[09февр.2023 01:25:37.855] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09февр.2023 01:25:37.940] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 27
+[09февр.2023 01:25:37.943] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 19 22
+[09февр.2023 01:25:37.949] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
+[09февр.2023 01:25:37.961] [Server thread/INFO] [minecolonies/]: Finished discovering food 36 48
+[09февр.2023 01:25:37.985] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 467
+[09февр.2023 01:25:38.005] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 191
+[09февр.2023 01:25:38.034] [Server thread/INFO] [minecolonies/]: Finished discovering lucky oreBlocks 175
+[09февр.2023 01:25:38.040] [Server thread/INFO] [minecolonies/]: Finished discovering recruitment costs
+[09февр.2023 01:25:38.043] [Server thread/INFO] [minecolonies/]: Finished discovering diseases
+[09февр.2023 01:25:55.480] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[09февр.2023 01:25:55.619] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3dd7e4e
+[09февр.2023 01:25:55.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tekalu[/26.181.254.77:55448] logged in with entity id 107 at (458.6353774649633, 64.0, -449.41826098095845)
+[09февр.2023 01:25:56.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tekalu joined the game
+[09февр.2023 01:25:56.308] [Server thread/INFO] [structurize/]: New Server UUID fb067532-6a75-4c2a-a2cc-6481b604b7e4
+[09февр.2023 01:26:00.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4487ms or 89 ticks behind
+[09февр.2023 01:26:17.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tekalu lost connection: Disconnected
+[09февр.2023 01:26:17.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tekalu left the game
+[09февр.2023 01:26:19.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4254ms or 85 ticks behind
+[09февр.2023 01:26:54.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[09февр.2023 01:27:47.364] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1876dae6
+[09февр.2023 01:27:47.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tekalu[/26.181.254.77:55517] logged in with entity id 421 at (457.0829334565147, 64.0, -449.16947486964756)
+[09февр.2023 01:27:47.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tekalu joined the game
+[09февр.2023 01:27:49.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[09февр.2023 01:28:15.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8816ms or 176 ticks behind
+[09февр.2023 01:28:17.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tekalu moved too quickly! 1.3332477157500193,2.1661092609382138,-9.953863966074607
+[09февр.2023 01:28:30.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tekalu moved too quickly! 3.822634765581654,1.1677966466332492,-9.69776939895678
+[09февр.2023 01:28:41.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10262ms or 205 ticks behind
+[09февр.2023 01:30:01.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[09февр.2023 01:34:22.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09февр.2023 01:34:22.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09февр.2023 01:34:22.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09февр.2023 01:34:22.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tekalu lost connection: Server closed
+[09февр.2023 01:34:22.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tekalu left the game
+[09февр.2023 01:34:22.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds

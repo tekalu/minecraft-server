@@ -1,0 +1,99 @@
+{
+  "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2023-02-09 00:49:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2023-02-09 00:49:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2023-02-09 00:49:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-02-09 00:49:34 +0700"
+    },
+    "done": true
+  },
+  "sorcerium:lvl_50_achievement": {
+    "criteria": {
+      "lvl_50_achievement": "2023-02-09 00:51:33 +0700"
+    },
+    "done": true
+  },
+  "sorcerium:lvl_30_achievement": {
+    "criteria": {
+      "lvl_30_achievement": "2023-02-09 00:51:32 +0700"
+    },
+    "done": true
+  },
+  "sorcerium:lvl_40_achievement": {
+    "criteria": {
+      "lvl_40_achievement": "2023-02-09 00:51:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2023-02-09 00:49:14 +0700"
+    },
+    "done": true
+  },
+  "sorcerium:lvl_20_achievement": {
+    "criteria": {
+      "lvl_20_achievement": "2023-02-09 00:51:32 +0700"
+    },
+    "done": true
+  },
+  "sorcerium:lvl_10_achievement": {
+    "criteria": {
+      "lvl_10_achievement": "2023-02-09 00:51:32 +0700"
+    },
+    "done": true
+  },
+  "sorcerium:lvl_achievement": {
+    "criteria": {
+      "lvl_achievement": "2023-02-09 00:48:59 +0700"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2023-02-09 00:49:14 +0700"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2023-02-09 00:49:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2023-02-09 00:49:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-02-09 00:38:40 +0700"
+    },
+    "done": false
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2023-02-09 00:49:34 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
